@@ -1,0 +1,7 @@
+rishabh = delhi
+imtiyaz =  shimla
+nilima = kanpur
+rati = delhi
+ayishah = jaipur
+raghu = pune
+pankaj = ahmednagar
